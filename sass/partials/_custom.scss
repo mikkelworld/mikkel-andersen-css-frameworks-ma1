@@ -1,0 +1,10 @@
+$primary: #C32C72;
+$light: #F4F3EE;
+$background-color: #E5E5E5;
+
+$navbar-light-color: #8D8D8D;
+$navbar-light-active-color: $primary;
+$navbar-light-hover-color: darken($navbar-light-color, 20%);
+$navbar-light-toggler-icon-bg: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='%23463F3A' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+
+$h1-font-size: 34px;

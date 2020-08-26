@@ -1,0 +1,14 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	background-color: $background-color;
+	display: flex;
+    flex-direction: column;
+}
+
+.wrapper {
+	padding-top: 80px;
+	flex: 1 0 auto;
+}
